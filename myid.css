@@ -1,0 +1,27 @@
+body{
+    background: -webkit-linear-gradient(45deg,rgb(255, 0, 128),rgb(255, 238, 0));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+hr>#head{
+    
+}
+.head{
+    
+    height: 100vh;
+    
+    position: relative;
+    position: relative;
+    float: left;
+    top: 50%;
+}
+    
+.head>p{
+    color: dimgray;
+}
+.head>h1{
+    font-weight: 400;
+    color: white;
+    
+}
