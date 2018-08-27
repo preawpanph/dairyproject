@@ -1,7 +1,7 @@
 
 
 body{
-    background: -webkit-linear-gradient(-45deg,rgb(255, 238, 0),rgb(255, 0, 128));
+    background: -webkit-linear-gradient(0deg,rgb(196, 1, 255),rgb(255, 0, 128));
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -14,7 +14,7 @@ body{
 }
     
 .head>p{
-    color: dimgray;
+    color: lemonchiffon;
 }
 .head>h1{
     font-weight: 400;
@@ -23,4 +23,7 @@ body{
 }
 .container {
     position: relative;
+}
+.btn-default{
+    background-color: beige !important;
 }
