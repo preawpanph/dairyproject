@@ -1,18 +1,16 @@
+
+
 body{
-    background: -webkit-linear-gradient(45deg,rgb(255, 0, 128),rgb(255, 238, 0));
+    background: -webkit-linear-gradient(-45deg,rgb(255, 238, 0),rgb(255, 0, 128));
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100%;
 }
 
 .head{
-    
-    height: 100vh;
-    
-    position: relative;
-    position: relative;
-    float: left;
-    top: 50%;
+    height: 60vh;
+    text-align: center;
+    margin-top: 40vh;
+
 }
     
 .head>p{
@@ -22,4 +20,7 @@ body{
     font-weight: 400;
     color: white;
     
+}
+.container {
+    position: relative;
 }
