@@ -4,17 +4,20 @@ body{
     background: -webkit-linear-gradient(0deg,rgb(196, 1, 255),rgb(255, 0, 128));
     background-repeat: no-repeat;
     background-size: cover;
+    transition: 1s ease-out;  
+  
 }
 
 .head{
-    height: 60vh;
+    height: 80vh;
     text-align: center;
-    margin-top: 40vh;
+    margin-top: 20vh;
 
 }
     
 .head>p{
-    color: lemonchiffon;
+    color: lemonchiffon
+    ;
 }
 .head>h1{
     font-weight: 400;
@@ -26,4 +29,10 @@ body{
 }
 .btn-default{
     background-color: beige !important;
+}
+input{
+ width: 100%;
+}
+.center{
+    vertical-align: middle;
 }
