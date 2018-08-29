@@ -1,3 +1,28 @@
 body{
-    background-color:rgb(196, 1, 255) ;
+    background:-webkit-linear-gradient(0deg,rgb(219, 100, 255),rgb(255, 89, 172));
+}
+.box{
+    margin: 20px;
+    width: 70vh;
+    height: 20%;
+    padding: 20px 20px 20px;
+    display: block;
+    background-color:rgb(243, 238, 245) ;
+    border: 1px #bbb solid;
+    border-radius:  5px;
+}
+textarea{
+    width: 75%;
+    padding: 10px 10px 10px;
+    border: 1px #bbb solid;
+    border-radius: 5px;
+    font-size: 15px;
+    resize: none;
+    display: inline;
+    vertical-align: top;
+}
+.btn-default{
+    background-color: white !important;
+    display: inline !important;
+    vertical-align: top !important;
 }
